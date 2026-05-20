@@ -16,11 +16,11 @@
   @apply flex items-center justify-center;
 }
 
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
+} */
 
 body {
   color: white;
@@ -36,7 +36,7 @@ canvas {
   touch-action: none;
 }
 
-.scrim-max-width {
+.screen-max-width {
   margin-inline: auto;
   position: relative;
   max-width: 1120px;
